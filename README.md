@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm David</h1>
+<h3 align="center">Junior Web Developer</h3>
 
-<!--
-**DavidDM-web/DavidDM-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 HTML, CSS & JavaScript <br>
+  ⚡ ESP32 (Arduino) & WebSockets <br>
+  🚀 Learning and improving every day
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Welcome%20to%20my%20profile&fontSize=35&fontColor=ffffff" />
+</p>
